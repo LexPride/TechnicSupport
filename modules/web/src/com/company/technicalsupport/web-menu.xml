@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-technicalsupport" insertBefore="administration" caption="mainMsg://menu_config.application-technicalsupport">
+        <item screen="technicalsupport_Appeal.browse" caption="mainMsg://menu_config.technicalsupport_Appeal.browse"/>
+    </menu>
+</menu-config>
